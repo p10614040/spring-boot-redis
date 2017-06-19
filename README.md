@@ -1,5 +1,5 @@
 # SpringBoot Redis
-基于 SpringBoot 的 Redis 客户端。
+基于 SpringBoot 的 Redis 客户端程序。
 
 * JDK：1.8+
 * SpringBoot：1.5.4.RELEASE
